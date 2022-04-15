@@ -5,7 +5,7 @@
  Site de Landing Page fictício para efeito de estudo. O Site foi criado com objetivo de trabalhar com os links.
 
    <h1>
-    <img src="https://user-images.githubusercontent.com/93000587/163628088-db5bc114-1612-4b89-8352-c8d6cd4ef01b.gif">
+    <img src="https://user-images.githubusercontent.com/93000587/163635116-f16700f7-e029-40b9-a96d-abc6fed6bfed.gif">
    </h1>
 
 
@@ -21,10 +21,10 @@
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/ElielAlves42/Projeto-Site-de-Noticias
+$ git clone https://github.com/ElielAlves42/Pagina-Landing-Page
 
 # Entrar no diretório
-$ cd Projeto-Site-de-Noticias
+$ cd Pagina-Landing-Page
 
 # instalar as dependências
 $ yarn install
